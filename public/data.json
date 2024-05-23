@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co/sg5VmQt/Food1.png",
+    "recipe_id": "1",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "A classic Italian pasta dish with creamy egg sauce, pancetta, and Parmesan cheese.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g Parmesan cheese",
+      "2 cloves garlic",
+      "Salt and pepper"
+    ],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_image": "https://i.ibb.co/x7DfQNn/Food2.png",
+    "recipe_id": "2",
+    "recipe_name": "Chicken Curry",
+    "short_description": "A flavorful and aromatic chicken curry made with a blend of spices and coconut milk.",
+    "ingredients": [
+      "500g chicken",
+      "200ml coconut milk",
+      "100g onions",
+      "3 cloves garlic",
+      "1 tbsp curry powder",
+      "1 tsp turmeric",
+      "Salt"
+    ],
+    "preparing_time": 40,
+    "calories": 520
+  },
+  {
+    "recipe_image": "https://i.ibb.co/sg5VmQt/Food1.png",
+    "recipe_id": "3",
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A quick and healthy stir-fry with mixed vegetables and a savory sauce.",
+    "ingredients": [
+      "200g broccoli",
+      "100g bell peppers",
+      "100g snap peas",
+      "1 carrot",
+      "50ml soy sauce",
+      "2 cloves garlic",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": 20,
+    "calories": 180
+  },
+  {
+    "recipe_image": "https://i.ibb.co/x7DfQNn/Food2.png",
+    "recipe_id": "4",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Delicious beef tacos with fresh toppings and a zesty lime dressing.",
+    "ingredients": [
+      "300g ground beef",
+      "100g lettuce",
+      "50g cheese",
+      "8 taco shells",
+      "1 tomato",
+      "1 lime",
+      "Salt and pepper"
+    ],
+    "preparing_time": 30,
+    "calories": 350
+  },
+  {
+    "recipe_image": "https://i.ibb.co/sg5VmQt/Food1.png",
+    "recipe_id": "5",
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Classic chocolate chip cookies with a crispy edge and gooey center.",
+    "ingredients": [
+      "250g flour",
+      "150g butter",
+      "200g sugar",
+      "100g brown sugar",
+      "200g chocolate chips",
+      "2 large eggs",
+      "1 tsp vanilla extract",
+      "1 tsp baking soda",
+      "Salt"
+    ],
+    "preparing_time": 25,
+    "calories": 220
+  },
+  {
+    "recipe_image": "https://i.ibb.co/x7DfQNn/Food2.png",
+    "recipe_id": "6",
+    "recipe_name": "Greek Salad",
+    "short_description": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "ingredients": [
+      "200g tomatoes",
+      "100g cucumbers",
+      "50g olives",
+      "100g feta cheese",
+      "1 red onion",
+      "1 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper"
+    ],
+    "preparing_time": 15,
+    "calories": 150
+  }
+]
