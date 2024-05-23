@@ -16,6 +16,7 @@ const Currentcook = ({ prepare }) => {
       <h3 className="text-3xl font-medium text-center m-4">
         Currently Cooking: {prepare.length}
       </h3>
+      <hr className="w-2/3 mx-auto h-2" />
 
       <table className="table-auto w-full text-[#878787]">
         <thead className="mx-auto">
